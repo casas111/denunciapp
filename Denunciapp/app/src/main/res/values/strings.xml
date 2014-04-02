@@ -5,4 +5,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="emer_prompt">Elija una emergencia</string>
+
+    <string-array name="emer_arrays">
+        <item>Medica</item>
+        <item>Violencia</item>
+        <item>Persona Extraviada</item>
+        <item>Robo</item>
+        <item>Incidente</item>
+        <item>Emergencia Menor</item>
+    </string-array>
+
 </resources>
